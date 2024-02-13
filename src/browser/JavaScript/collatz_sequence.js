@@ -3,9 +3,11 @@
  * Escuela Superior de Ingeniería y Tecnología
  * Grado en Ingeniería Informática
  * Programación de Aplicaciones Interactivas 2023-2024
- * 
- * @autor Stephan Brommer Gutiérrez (alu0101493497@ull.edu.es)
- * @autor Tania Évora Vargas Martínez (alu0101219622@ull.edu.es)
+ *
+ * @author Stephan Brommer Gutiérrez 
+ * @author alu0101493497@ull.edu.es
+ * @author Tania Évora Vargas Martínez 
+ * @author alu0101219622@ull.edu.es
  * @since Feb 11 2024
  * @desc Collatz Sequence
  *  Program that calculates the Collatz sequence for a given number, which is 
