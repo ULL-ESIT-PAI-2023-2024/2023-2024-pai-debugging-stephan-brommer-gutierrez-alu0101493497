@@ -11,8 +11,8 @@
  * @since Feb 8 2024 
  * @desc Nth Prime
  *  Calculates and returns the nth prime number
- * @see {@link }
- *
+ * 
+ * @see {@link https://github.com/ULL-ESIT-PAI-2023-2024/2023-2024-pai-debugging-stephanBG-taniaVM/blob/master/src/vsc/JavaScript/nth-primes.js}
  */
 
 
