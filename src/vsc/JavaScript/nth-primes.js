@@ -5,9 +5,9 @@
  * Programación de Aplicaciones Interactivas 2023-2024
  *
  * @author Stephan Brommer Gutiérrez 
- * @author alu0101493497@ull.edu.es
+ * @author alu0101493497
  * @author Tania Évora Vargas Martínez 
- * @author alu0101219622@ull.edu.es
+ * @author alu0101219622
  * @since Feb 8 2024 
  * @desc Nth Prime
  *  Calculates and returns the nth prime number
