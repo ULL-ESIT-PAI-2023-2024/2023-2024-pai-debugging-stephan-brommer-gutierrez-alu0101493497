@@ -12,7 +12,7 @@
  *  requested from the user, and then displays the sequence obtained for that 
  *  value.
  * 
- * @see {@link }
+ * @see {@link https://github.com/ULL-ESIT-PAI-2023-2024/2023-2024-pai-debugging-stephanBG-taniaVM/blob/master/src/browser/JavaScript/collatz_sequence.js}
  */
 
 /**
