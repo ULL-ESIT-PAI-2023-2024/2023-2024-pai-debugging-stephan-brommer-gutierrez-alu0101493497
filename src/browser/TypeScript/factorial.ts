@@ -14,7 +14,7 @@
  * requested from the user, and then displays the result of the factorial
  * valur.
  * 
- * @see {@link https://github.com/ULL-ESIT-PAI-2023-2024/2023-2024-pai-debugging-stephanBG-taniaVM/blob/master/src/browser/JavaScript/collatz_sequence.js}
+ * @see {@link https://github.com/ULL-ESIT-PAI-2023-2024/2023-2024-pai-debugging-stephanBG-taniaVM/tree/master/src/browser/TypeScript}
  */
 
 /**

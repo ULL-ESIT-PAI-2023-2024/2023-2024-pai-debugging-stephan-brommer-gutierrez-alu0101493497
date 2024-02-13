@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES6",      /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "module": "CommonJS", /* Specify what module code is generated. */
+    "strict": true,       /* Enable all strict type-checking options. */
+    "sourceMap": true     /* Indicates whether to generate source maps files during the TypeScript compilation process */
+  },
+  "include": [
+    "./**/*.ts"
+  ]
+}
