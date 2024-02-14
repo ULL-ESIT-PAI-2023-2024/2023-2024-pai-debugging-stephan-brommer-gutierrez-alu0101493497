@@ -38,8 +38,8 @@ function startProgram(): void {
  * @returns The factorial of the initial number
  */
 function factorial(initialNumber: number): number {
-  let result = 1;
-  for (let i = 2; i <= initialNumber; i++) {
+  let result: number = 1;
+  for (let i: number = 2; i <= initialNumber; i++) {
     result *= i;
   }
   return result;

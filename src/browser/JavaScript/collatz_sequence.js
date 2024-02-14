@@ -35,7 +35,7 @@ function startProgram() {
  * Calculate and displays the Collatz sequence for a given number. Follow 
  * the sequence's rules until currentValue reaches number 1. 
  * 
- * @param {Number} currentValue Number with which we are calculating
+ * @param {number} currentValue Number with which we are calculating
  */
 function collatzSequence(currentValue) {
   // Stores each number in the sequence

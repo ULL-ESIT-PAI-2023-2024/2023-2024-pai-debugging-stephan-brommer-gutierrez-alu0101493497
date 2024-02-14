@@ -23,7 +23,8 @@
  */
 const calculateMaxValue = function(numbers: number[]): number {
   let maxValue: number = numbers[0];
-  for (let i = 1; i < numbers.length; i++) {
+  const SIZE_NUMBERS: number = numbers.length;
+  for (let i: number = 1; i < SIZE_NUMBERS; i++) {
     if (numbers[i] > maxValue) {
       maxValue = numbers[i];
     }
@@ -39,8 +40,8 @@ const calculateMaxValue = function(numbers: number[]): number {
  */
 const calculateSum = function(numbers: number[]): number {
   let sum: number = 0;
-  for (let i = 0; i < numbers.length; i++) {
-    sum += numbers[i];
+  for (const EACH_NUMBER of numbers as number[]) {
+    sum += EACH_NUMBER;
   }
   return sum;
 };
