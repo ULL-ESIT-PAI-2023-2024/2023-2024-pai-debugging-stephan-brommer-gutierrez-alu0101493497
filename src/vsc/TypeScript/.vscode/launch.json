@@ -17,7 +17,7 @@
       "request": "launch",
       "name": "Operations incorrect",
       "program": "${workspaceFolder}/operations.js",
-      "args": "[]",
+      "args": [],
       "outFiles": ["${workspaceFolder}/*.js"]
     }    
   ]
