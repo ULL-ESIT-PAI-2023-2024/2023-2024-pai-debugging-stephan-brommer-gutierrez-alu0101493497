@@ -74,7 +74,4 @@ function main() {
   console.log(`The ${VALUE} prime is: ${PRIME_NUMBER}`);
 }
 
-// Check if main is executed directly or in browser
-if (require.main === module) {
-  main();
-}
+main();
