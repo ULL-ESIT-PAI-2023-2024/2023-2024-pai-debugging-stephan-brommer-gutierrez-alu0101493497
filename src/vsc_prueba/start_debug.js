@@ -4,7 +4,6 @@ function main() {
     console.log(`Here world ${value}`);
     value++;
     console.log(`Bye world ${value}`);
-
 }
 
 main();
