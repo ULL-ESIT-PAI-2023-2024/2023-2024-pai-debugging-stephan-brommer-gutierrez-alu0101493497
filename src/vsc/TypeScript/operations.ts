@@ -62,8 +62,8 @@ const calculateAverage = function(numbers: number[]): number {
  * Principal function
  */
 function main(): void {
-  const VALORES: string[] = process.argv.slice(2);
-  const NUMBERS: number[] = VALORES.map(elemento => Number(elemento));
+  const VALUES: string[] = process.argv.slice(2);
+  const NUMBERS: number[] = VALUES.map(elemento => Number(elemento));
   const MAX_VALUE: number = calculateMaxValue(NUMBERS);
   const AVERAGE_VALUE: number = calculateAverage(NUMBERS);
   console.log(`Max value: ${MAX_VALUE}`);
