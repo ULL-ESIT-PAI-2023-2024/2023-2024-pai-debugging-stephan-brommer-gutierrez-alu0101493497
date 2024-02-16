@@ -12,4 +12,5 @@
 
 6. [Debugging express application](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial#_debugging-your-express-application)
 
-7. [Debugging in the browser(ES)](https://es.javascript.info/debugging-chrome)
+7. [Debugging in the browser (ES)](https://es.javascript.info/debugging-chrome)
+8. [How to Debug TypeScript Files with Chrome Browser (Video)](https://youtu.be/hwnzcSNy1ac?si=SNlaZtyYM2JtUCsF)
