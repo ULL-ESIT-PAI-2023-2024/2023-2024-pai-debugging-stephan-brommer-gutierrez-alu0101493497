@@ -40,7 +40,7 @@ const calculateMaxValue = function(numbers: number[]): number {
  */
 const calculateSum = function(numbers: number[]): number {
   let sum: number = 0;
-  for (const EACH_NUMBER of numbers as number[]) {
+  for (const EACH_NUMBER of numbers) {
     sum += EACH_NUMBER;
   }
   return sum;
