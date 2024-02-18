@@ -1,3 +1,3 @@
 # slides
 
-Use this directory to include a copy (PDF) of the slides of your project presentation
+In this directory you will find the slides used in class
