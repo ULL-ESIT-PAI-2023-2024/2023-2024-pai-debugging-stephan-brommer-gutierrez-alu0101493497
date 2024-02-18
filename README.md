@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ebwY1Ac8)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13781436&assignment_repo_type=AssignmentRepo)
-## PAI class Presentation Template 
+## PAI class Presentation 
 ### To be used for works to be exposed in class sessions
 
 This directory is organised as follows:
@@ -15,12 +15,3 @@ This directory is organised as follows:
           └── vsc               # VSC code examples
               ├── JavaScript    # JavaScript code for vsc
               └── TypeScript    # TypeScript code for vsc
-
-      
-When you receive the link to this repository, clone it and use it to host all the material for the work to be done: slides, code, etc.
-
-Upload the link to this public repository to the class assignment. This is required for the evaluation of the work.
-
-Post the link to the repository in the PAI forum before the presentation date of the work, so that all students have access to the material in the exposition session.
-
-Remove from the repository those directories that are not necessary for your work.
